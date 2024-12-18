@@ -1,6 +1,6 @@
 #MM
 import time
-import main_def as md
+import main_Sort as md
 import sys
 sys.setrecursionlimit(10**6)
 
